@@ -1,9 +1,8 @@
 import itertools
-methods = ["GET", "POST", "PUT"]
+methods = ["get", "post", "put"]
 statuses = [200, 404, 500]
-formats = ["JSON", "XML"]
+formats = ["json", "xml"]
 
 comb = list(itertools.product(methods, "-", statuses, "-", formats))
-print(comb)
 res = [" ".join(map(str, tup)) for tup in comb]
 print(res)

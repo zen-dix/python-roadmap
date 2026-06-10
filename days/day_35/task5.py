@@ -5,7 +5,7 @@ def delay_execution(seconds):
             time.sleep(seconds)
             return func(*args, **kwargs)
         return wrapped
-    return dec
+    return 
 @delay_execution(seconds=2)
 def fetch_data():
     return "Data fetched!"

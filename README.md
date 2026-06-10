@@ -13,4 +13,4 @@ Building a solid foundation in Python, algorithms, and backend architecture to p
 - Language: Python 3.x
 - Version Control: Git / GitHub
 - Environment: Linux (CachyOS)
-- Neovim
+- IDE: Neovim

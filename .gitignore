@@ -1,13 +1,20 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+# Python (кэш компиляции)
 
-# Virtual Environment
-venv/
-.venv/
-env/
+**pycache**/ \*.py\[cod\] \*$py.class
 
-# PyCharm / IDE
-.idea/
-.vscode/
+# Виртуальные окружения (все популярные имена)
+
+venv/ .venv/ env/ ENV/
+
+# Настройки IDE и редакторов
+
+.idea/ .vscode/ .history/
+
+# Специфичный мусор от Neovim
+
+\*.swp \*.swo .netrwhist
+
+# Системный мусор Linux / CachyOS
+
+.DS\_Store Thumbs.db
+

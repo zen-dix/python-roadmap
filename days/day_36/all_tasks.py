@@ -39,6 +39,7 @@ print(f"Процесс [{proc_postgres.name}] запущес с PID [{proc_postg
 scanner = PortScanner()
 scanner.scan("113.3.4.1", 80)
 scanner.scan("342.4.43.2", 443)
+
 router = APIRouter()
 router.setup()
 router.add_route("/users")

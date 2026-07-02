@@ -51,7 +51,7 @@ class AppLogger:
     def log(self, message):
         try:
             with open(self.file_path, "a", encoding="utf-8") as file:
-                file.write(message)
+                file.write(message+"\n")
         except PermissionError:
             print("You haven't permissons")
         except OSError:
@@ -73,3 +73,8 @@ print(api.build_url("/users/zendix"))
 servers = LoadBalancer(["192.168.1.1", "192.168.1.2", "192.168.1.3"])
 for i in range(5):
     print(servers.get_next_server())
+
+app = AppLogger("log.txt")
+app.log("first log")
+app.log("first log")
+

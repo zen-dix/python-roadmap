@@ -1,0 +1,6 @@
+CREATE TABLE api_keys (
+  key_id INTEGER PRIMARY KEY AUTOINCREMENT,
+  user_id INTEGER NOT NULL, 
+  token TEXT NOT NULL UNIQUE,
+  requests_count INTEGER
+);

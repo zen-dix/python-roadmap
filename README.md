@@ -12,5 +12,5 @@ Building a solid foundation in Python, algorithms, and backend architecture to p
 ### Tech Stack
 - Language: Python 3.x
 - Version Control: Git / GitHub
-- Environment: Linux (CachyOS)
+- Environment: Linux (CachyOS + hyprland)
 - IDE: Neovim

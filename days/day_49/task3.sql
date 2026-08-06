@@ -1,3 +1,9 @@
+/*
+Задача 3 (Средняя, 10 мин)Даны таблицы:workspaces (id, os_type, window_manager)employees (id, workspace_id, username)
+Напиши запрос, который выведет username и window_manager.
+Условие: Оставь только тех сотрудников, у которых os_type = 'CachyOS'. Отсортируй результат по username по алфавиту.  
+*/
+
 CREATE TABLE workspaces(
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   os_type TEXT, 

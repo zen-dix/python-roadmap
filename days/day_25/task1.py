@@ -1,3 +1,7 @@
-from termcolor import cprint
-cprint("Backend init success!", (0,255,0))
+"""
+Задание 1: Проверка инициализации скрипта (task1.py)Сложность: 2/10Время: 5–10 минЦель: Проверить корректность настройки виртуального окружения и работы сторонней библиотеки termcolor.  Условие: Напиши модуль, который при вызове выводит в консоль сообщение "Backend init success!" ярким зелёным цветом с помощью termcolor.cprint.  Входные данные: Отсутствуют.Вывод: Зелёный текст в терминале: Backend init success!.
+"""
 
+from termcolor import cprint
+
+cprint("Backend init success!", (0, 255, 0))

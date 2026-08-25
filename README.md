@@ -1,40 +1,42 @@
-# Python Backend Journey
+# 🐍 Python Backend Journey
 
-Personal learning journal tracking the path to **Junior Backend Developer**.
+Personal learning journal on the path to **Junior Backend Developer**.
 
-Daily practice of Python, algorithms, SQL, async, Flask and deployment — organized day by day.
-
----
-
-## Progress
-
-**Current day: 54 / 100**
-
-| Phase | Days | Status |
-| ------- | ------ | -------- |
-| 1. Python Basics | 1–12 | ✅ Done |
-| 2. Functions, Files, Errors | 13–24 | ✅ Done |
-| 3. venv, Git, Decorators | 25–35 | ✅ Done |
-| 4. OOP | 36–45 | ✅ Done |
-| 5. SQL + SQLite | 46–53 | ✅ Done |
-| 6. Asyncio | 54–60 | 🔄 In progress |
-| 7. Flask + REST API | 61–72 | ⬜ |
-| 8. Testing & Code Quality | 73–81 | ⬜ |
-| 9. Final Project + Portfolio | 82–93 | ⬜ |
-| 10. Docker & Deployment | 94–100 | ⬜ |
-
-> Full day-by-day plan → [`days.md`](./days.md)
+Daily practice of Python, algorithms, SQL, asyncio, Flask and deployment — one day at a time.
 
 ---
 
-## Goal
+## 📊 Progress
 
-Build a solid foundation in Python and backend development to be ready for junior roles / internships.
+**Day 54 / 100**
 
-Focus areas:
+![Progress](https://img.shields.io/badge/Progress-54%25-0ea5e9?style=for-the-badge&logo=python&logoColor=white)
+![Current](https://img.shields.io/badge/Current-Asyncio-8b5cf6?style=for-the-badge)
+
+| Phase                        | Days   | Status        |
+|------------------------------|--------|---------------|
+| 1. Python Basics             | 1–12   | ✅ Done       |
+| 2. Functions, Files, Errors  | 13–24  | ✅ Done       |
+| 3. venv, Git, Decorators     | 25–35  | ✅ Done       |
+| 4. OOP                       | 36–45  | ✅ Done       |
+| 5. SQL + SQLite              | 46–53  | ✅ Done       |
+| 6. Asyncio                   | 54–60  | 🔄 In progress|
+| 7. Flask + REST API          | 61–72  | ⬜ Upcoming   |
+| 8. Testing & Code Quality    | 73–81  | ⬜ Upcoming   |
+| 9. Final Project + Portfolio | 82–93  | ⬜ Upcoming   |
+| 10. Docker & Deployment      | 94–100 | ⬜ Upcoming   |
+
+> Full plan → [days.md](./days.md)
+
+---
+
+## 🎯 Goal
+
+Build a strong foundation in Python and backend development to become ready for junior roles and internships.
+
+Main focus:
 
 - Clean Python fundamentals
-- Algorithms & problem solving
 - SQL / SQLite
 - Async programming
 - Flask + REST APIs
@@ -42,31 +44,27 @@ Focus areas:
 
 ---
 
-## Repository Structure
+## 📁 Structure
 
+```text
 days/
 ├── day_25/
 ├── day_26/
 ├── ...
-└── day_54/
+└── day_54/ 
 
-Each `day_XX/` folder contains the tasks and solutions for that day.
+Each day_XX/ folder contains tasks and solutions for that day.
 
----
+🛠 Tech Stack
 
-## Tech Stack
+Language: Python 3.x
+Database: SQLite
+OS: Linux (CachyOS + Hyprland)
+Editor: Neovim
+VCS: Git + GitHub
 
-- **Language:** Python 3.x
-- **Database:** SQLite
-- **Environment:** Linux (CachyOS + Hyprland)
-- **Editor:** Neovim
-- **Version control:** Git + GitHub
 
----
+📌 How I study
+I follow a strict daily plan (45–80 minutes).
 
-## How I study
-
-I follow a strict daily plan (~45–80 minutes per day).  
-Every day has theory + practice tasks. I never skip days and keep everything in this repository.
-
----
+Every day = theory + practice. No skipped days. Everything is saved here.

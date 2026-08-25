@@ -49,14 +49,23 @@ Main focus:
 ```text
 days/
 ├── day_25/
+│   ├── task1.py
+│   ├── task2.py
+│   ├── task3.py
+│   └── ...
 ├── day_26/
 ├── ...
-└── day_54/ 
+└── day_54/
+    ├── task1.py
+    ├── task2.py
+    ├── task3.py
+    ├── task4.py
+    └── task5.py
 ```
 
 Each day_XX/ folder contains tasks and solutions for that day.
 
-📌 How I study
+## 📌 How I study
 I follow a strict daily plan (45–80 minutes).
 
 Every day = theory + practice. No skipped days. Everything is saved here.

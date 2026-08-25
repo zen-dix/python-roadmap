@@ -56,14 +56,6 @@ days/
 
 Each day_XX/ folder contains tasks and solutions for that day.
 
-🛠 Tech Stack
-
-Language: Python 3.x
-Database: SQLite
-OS: Linux (CachyOS + Hyprland)
-Editor: Neovim
-VCS: Git + GitHub
-
 📌 How I study
 I follow a strict daily plan (45–80 minutes).
 

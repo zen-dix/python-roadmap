@@ -68,6 +68,10 @@ Each day_XX/ folder contains tasks and solutions for that day.
 Days 1–24 were completed before I started using Git, so only solutions from day 25 onwards are in this repository.
 
 ## 📌 How I study
-I follow a strict daily plan (45–80 minutes).
 
+I follow a strict daily plan (45–80 minutes).
 Every day = theory + practice. No skipped days. Everything is saved here.
+
+## 📄 License
+
+MIT

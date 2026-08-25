@@ -52,6 +52,7 @@ days/
 ├── day_26/
 ├── ...
 └── day_54/ 
+```
 
 Each day_XX/ folder contains tasks and solutions for that day.
 
@@ -62,7 +63,6 @@ Database: SQLite
 OS: Linux (CachyOS + Hyprland)
 Editor: Neovim
 VCS: Git + GitHub
-
 
 📌 How I study
 I follow a strict daily plan (45–80 minutes).

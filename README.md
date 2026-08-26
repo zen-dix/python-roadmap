@@ -12,7 +12,7 @@ Daily practice of Python, algorithms, SQL, asyncio, Flask and deployment — one
 
 ![Progress](https://img.shields.io/badge/Progress-54%25-0ea5e9?style=for-the-badge&logo=python&logoColor=white)
 ![Current](https://img.shields.io/badge/Current-Asyncio-8b5cf6?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/zen-dix/python-roadmap)
+![Last Commit](https://img.shields.io/github/last-commit/zen-dix/python-roadmap?style=for-the-badge)
 
 | Phase                        | Days   | Status        |
 |------------------------------|--------|---------------|

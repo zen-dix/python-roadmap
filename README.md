@@ -26,7 +26,7 @@ Daily practice of Python, algorithms, SQL, asyncio, Flask and deployment — one
 | 9. Final Project + Portfolio | 82–93  | ⬜ Upcoming   |
 | 10. Docker & Deployment      | 94–100 | ⬜ Upcoming   |
 
-> Full plan → [days.md](./days.md)
+> Full plan → [docs/days.md](./docs/days.md)
 
 ---
 
@@ -71,6 +71,9 @@ Days 1–24 were completed before I started using Git, so only solutions from da
 
 I follow a strict daily plan (45–80 minutes).
 Every day = theory + practice. No skipped days. Everything is saved here.
+
+I use a strict daily plan + custom AI mentor prompt.  
+Full prompt → [docs/ai_mentor_promt.md](docs/ai_mentor_promt.md)
 
 ## 📄 License
 

@@ -69,7 +69,7 @@ Days 1–24 were completed before I started using Git, so only solutions from da
 
 ## 📌 How I study
 
-I follow a strict 100-day plan (45–80 minutes per day).  
+I follow a strict 100-day plan (45–90 minutes per day).  
 Every day consists of theory + practice. No skipped days.
 
 I use a custom AI mentor with hard rules:

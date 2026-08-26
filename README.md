@@ -73,7 +73,7 @@ I follow a strict daily plan (45–80 minutes).
 Every day = theory + practice. No skipped days. Everything is saved here.
 
 I use a strict daily plan + custom AI mentor prompt.  
-Full prompt → [docs/ai_mentor_promt.md](docs/ai_mentor_promt.md)
+> Full prompt → [docs/ai_mentor_prompt.md](docs/ai_mentor_prompt.md)
 
 ## 📄 License
 

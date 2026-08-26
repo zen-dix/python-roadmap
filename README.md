@@ -69,11 +69,16 @@ Days 1–24 were completed before I started using Git, so only solutions from da
 
 ## 📌 How I study
 
-I follow a strict daily plan (45–80 minutes).
-Every day = theory + practice. No skipped days. Everything is saved here.
+I follow a strict 100-day plan (45–80 minutes per day).  
+Every day consists of theory + practice. No skipped days.
 
-I use a strict daily plan + custom AI mentor prompt.  
-> Full prompt → [docs/ai_mentor_prompt.md](docs/ai_mentor_prompt.md)
+I use a custom AI mentor with hard rules:
+- The AI prepares the full day structure: theory, examples, common mistakes, and tasks
+- The AI **never** writes solutions for me
+- It only asks guiding questions when I get stuck
+- All code in this repository is written by me
+
+Full mentor prompt → [docs/ai_mentor_prompt.md](docs/ai_mentor_prompt.md)
 
 ## 📄 License
 

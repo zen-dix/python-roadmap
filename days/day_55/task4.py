@@ -38,7 +38,10 @@ async def main():
         asyncio.create_task(handle_client(client_id, delay))
         for client_id, delay in clients
     ]
-    results = await asyncio.gather(*tasks)
+    for task in tasks:
+        result = await task
+        results.append(result)
+
     print(results)
     end = time.monotonic()
     print(round(end - start, 1))

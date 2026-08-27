@@ -10,13 +10,13 @@ import time
 async def download_avatar():
     print("start download avatar")
     await asyncio.sleep(1.5)
-    print("avatar download succeful")
+    print("avatar download successful")
 
 
 async def download_settings():
     print("start download settings")
     await asyncio.sleep(1)
-    print("settings download succeful")
+    print("settings download successful")
 
 
 async def main():

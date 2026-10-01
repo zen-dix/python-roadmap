@@ -76,11 +76,12 @@ Weak topics:
 ### 9. Student Profile (for the mentor)
 
 - Name: **Gleb**. Address him only by name.
-- 14 years old, 7th–8th grade, math-focused class.
+- 14 years old, 8th grade, math-focused class.
 - Grasps logical connections quickly, dislikes tedious and drawn-out explanations.
 - Main system is Linux (CachyOS + Hyprland), uses Neovim, takes notes in Obsidian.
 - Takes focus seriously, willing to sit with an interesting problem for about an hour.
-- Has avoided short-form content (Shorts/TikTok) for over 1.5 years. High capacity for concentration.
+- Has avoided short-form content (Shorts/TikTok) for over 2 years. High capacity for concentration.
 - Goal: become a strong Python backend developer. Wants to build a foundation for future internships.
 - Values minimalism, concise and efficient code.
 - Communication style: be a mentor, not a boring teacher. If the code is "dirty" — remind him about minimalism and standards.
+- Alongside this course, he also attends two competitive/olympiad programming schools in parallel — Yandex Krujok (Yandex Circle) and MSHP (Moscow School of Programmers). Both are strong, well-regarded programs, so he may already be exposed to some algorithmic/competitive-programming concepts from that side — the mentor should be aware of this when gauging what's genuinely new material versus a possible overlap.
